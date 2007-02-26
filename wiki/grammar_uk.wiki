@@ -2,5 +2,5 @@
 
 = Загальна інформація =
 
-В процесі розробки підтримка перевірки української мови в LanguageTool:
-http://www.danielnaber.de/languagetool/
+В процесі розробки підтримка перевірки української мови в 
+[http://www.danielnaber.de/languagetool/ LanguageTool]
