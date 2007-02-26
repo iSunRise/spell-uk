@@ -6,8 +6,8 @@
 
 = Посилання =
 
-* [http://ispell-uk.sourceforge.net/ ПЗ перевірки орфографії]
-* [http://www.danielnaber.de/languagetool/ ПЗ перевірки граматики]
+* [aspell_uk Перевірка орфографії]
+* [grammar_uk Перевірка граматики]
 
 
 
