@@ -11,5 +11,3 @@
   * myspell
   * ispell
   * hunspell
-
-[Стара сторінка spell-uk]
