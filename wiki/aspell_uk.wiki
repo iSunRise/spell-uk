@@ -16,3 +16,54 @@
   * ispell
   * hunspell
 
+= Звантаження =
+
+Сторінка проекту для розробників та звантажень знаходиться на http://sourceforge.net/projects/ispell-uk. Там знаходяться CVS і інша інформація про проект.
+
+== Архіви (tgz та zip) та пакунки (rpm та src.rpm). ==
+
+http://sourceforge.net/projects/ispell-uk/
+
+== Доступ через CVS. ==
+
+cvs -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/ispell-uk login
+cvs -z3 -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/ispell-uk co -P aspell-uk
+
+*ВВАЖАЙТЕ*: підкаталог має назву *aspell-uk*, а не *ispell-uk*! В підкаталозі ispell-uk знаходиться стара версія ispell-uk, яку, скоріш за все, буде заморожено.
+
+
+== Встановлення з сирцевого коду. ==
+
+ * Відредагувати файл encodins.inc відповідно до необхідних кодувань
+ * make install-aspell
+ * make install-ispell
+ * make install-myspell
+
+= Зворотний зв'язок. =
+
+Коментарі та побажання можна надсилати на адресу ispell-uk-develop at lists.sourceforge.net
+
+
+= Документація та посилання =
+
+== aspell ==
+[http://aspell.sourceforge.net/|Домашня сторінка aspell]
+
+== myspell ==
+
+ # Найбільш загальним, здається (для різних версій OOo та Mozilla), є каталог ${INSTALL_DIR}/share/ooo/dict, так що поки що лишимо типове встановлення в /usr/share/ooo/dict, якщо потрібні інші, можна вживати символічні посилання
+ # dictionaries.lst не потрібен для mozilla, але потрібен для OOo (див. http://lingucomponent.openoffice.org/manual_instal.html), так що будем генерувати (поки що генерування є в rpm, потрібно додати в make install)
+ # Єдине універсальне кодування, що працює на всіх OOo та mozilla (принаймні, під Linux) - KOI8-U, поки що воно буде типовим 
+
+OpenOffice.org:
+[http://lingucomponent.openoffice.org/manual_instal.html|Ручне встановлення словників орфографії OpenOffice.org]
+[http://lingucomponent.openoffice.org/dictionary.html|Домівка словників орфографії OpenOffice.org]
+
+Mozilla:
+[http://spellchecker.mozdev.org/installation.html|Сторінка встановлення словників для Mozilla]
+
+== ALTLinux hyphenator ==
+[http://lingucomponent.openoffice.org/hyphenator.html|Перенесення слів в OpenOffice.org]
+
+== ispell ==
+[http://fmg-www.cs.ucla.edu/fmg-members/geoff/ispell.html|Домашня сторінка ispell]
