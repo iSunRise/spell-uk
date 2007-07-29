@@ -10,3 +10,4 @@
   * aspell (>=0.60)
   * myspell
   * ispell
+  * hunspell
