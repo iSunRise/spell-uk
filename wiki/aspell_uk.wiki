@@ -71,4 +71,4 @@ Mozilla:
 [http://lingucomponent.openoffice.org/hyphenator.html|Перенесення слів в OpenOffice.org]
 
 == ispell ==
-[http://fmg-www.cs.ucla.edu/fmg-members/geoff/ispell.html|Домашня сторінка ispell]
+[http://lasr.cs.ucla.edu/geoff/ispell.html|Домашня сторінка ispell]
