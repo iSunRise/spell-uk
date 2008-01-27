@@ -56,7 +56,7 @@ cvs -z3 -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/ispell-uk co -P aspell
 
 == hunspell ==
 [http://hunspell.sourceforge.net/ Домашня сторінка hunspell]
-Hunspell побудовано на основі коду myspell і це на сьогодні найактивніший і найгнучкіший двигун перевірки правопису.
+Hunspell побудовано на основі коду myspell і це на сьогодні найактивніший і найгнучкіший двигун перевірки правопису. hunspell працює зі словниками у форматі myspell але також має свої розширення.
 
 == myspell ==
 
@@ -76,3 +76,4 @@ Mozilla:
 
 == ispell ==
 [http://lasr.cs.ucla.edu/geoff/ispell.html Домашня сторінка ispell]
+ispell - найстаріший з двигунів перевірки правопису, фактично він зараз використовується лише на старих системах, де неможливо скомпілювати нові двигуни, або на які їх не було портовано.
