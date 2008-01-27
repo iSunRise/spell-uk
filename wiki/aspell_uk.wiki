@@ -54,6 +54,10 @@ cvs -z3 -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/ispell-uk co -P aspell
 == aspell ==
 [http://aspell.sourceforge.net/ Домашня сторінка aspell]
 
+== hunspell ==
+[http://hunspell.sourceforge.net/ Домашня сторінка hunspell]
+Hunspell побудовано на основі коду myspell і це на сьогодні найактивніший і найгнучкіший двигун перевірки правопису.
+
 == myspell ==
 
  # Найбільш загальним, здається (для різних версій OOo та Mozilla), є каталог ${INSTALL_DIR}/share/ooo/dict, так що поки що лишимо типове встановлення в /usr/share/ooo/dict, якщо потрібні інші, можна вживати символічні посилання
