@@ -57,11 +57,11 @@ Hunspell побудовано на основі коду myspell і це на с
 
 == myspell ==
 
-OpenOffice.org:
+OpenOffice.org: 
 [http://lingucomponent.openoffice.org/manual_instal.html Ручне встановлення словників орфографії OpenOffice.org]
 [http://lingucomponent.openoffice.org/dictionary.html Домівка словників орфографії OpenOffice.org]
 
-Mozilla:
+Mozilla: 
 [http://spellchecker.mozdev.org/installation.html Сторінка встановлення словників для Mozilla]
 
 == ALTLinux hyphenator ==
