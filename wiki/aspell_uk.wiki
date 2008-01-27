@@ -52,7 +52,7 @@ cvs -z3 -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/ispell-uk co -P aspell
 = Документація та посилання =
 
 == aspell ==
-[http://aspell.sourceforge.net/|Домашня сторінка aspell]
+[http://aspell.sourceforge.net/ Домашня сторінка aspell]
 
 == myspell ==
 
@@ -61,14 +61,14 @@ cvs -z3 -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/ispell-uk co -P aspell
  # Єдине універсальне кодування, що працює на всіх OOo та mozilla (принаймні, під Linux) - KOI8-U, поки що воно буде типовим 
 
 OpenOffice.org:
-[http://lingucomponent.openoffice.org/manual_instal.html|Ручне встановлення словників орфографії OpenOffice.org]
-[http://lingucomponent.openoffice.org/dictionary.html|Домівка словників орфографії OpenOffice.org]
+[http://lingucomponent.openoffice.org/manual_instal.html Ручне встановлення словників орфографії OpenOffice.org]
+[http://lingucomponent.openoffice.org/dictionary.html Домівка словників орфографії OpenOffice.org]
 
 Mozilla:
-[http://spellchecker.mozdev.org/installation.html|Сторінка встановлення словників для Mozilla]
+[http://spellchecker.mozdev.org/installation.html Сторінка встановлення словників для Mozilla]
 
 == ALTLinux hyphenator ==
-[http://lingucomponent.openoffice.org/hyphenator.html|Перенесення слів в OpenOffice.org]
+[http://lingucomponent.openoffice.org/hyphenator.html Перенесення слів в OpenOffice.org]
 
 == ispell ==
-[http://lasr.cs.ucla.edu/geoff/ispell.html|Домашня сторінка ispell]
+[http://lasr.cs.ucla.edu/geoff/ispell.html Домашня сторінка ispell]
