@@ -41,8 +41,8 @@ cvs -z3 -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/ispell-uk co -P aspell
 
  * Відредагувати файл encodins.inc відповідно до необхідних кодувань
  * make install-aspell
- * make install-ispell
  * make install-myspell
+ * make install-ispell
 
 = Зворотний зв'язок. =
 
@@ -51,18 +51,11 @@ cvs -z3 -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/ispell-uk co -P aspell
 
 = Документація та посилання =
 
-== aspell ==
-[http://aspell.sourceforge.net/ Домашня сторінка aspell]
-
 == hunspell ==
 [http://hunspell.sourceforge.net/ Домашня сторінка hunspell]
 Hunspell побудовано на основі коду myspell і це на сьогодні найактивніший і найгнучкіший двигун перевірки правопису. hunspell працює зі словниками у форматі myspell але також має свої розширення.
 
 == myspell ==
-
- # Найбільш загальним, здається (для різних версій OOo та Mozilla), є каталог ${INSTALL_DIR}/share/ooo/dict, так що поки що лишимо типове встановлення в /usr/share/ooo/dict, якщо потрібні інші, можна вживати символічні посилання
- # dictionaries.lst не потрібен для mozilla, але потрібен для OOo (див. http://lingucomponent.openoffice.org/manual_instal.html), так що будем генерувати (поки що генерування є в rpm, потрібно додати в make install)
- # Єдине універсальне кодування, що працює на всіх OOo та mozilla (принаймні, під Linux) - KOI8-U, поки що воно буде типовим 
 
 OpenOffice.org:
 [http://lingucomponent.openoffice.org/manual_instal.html Ручне встановлення словників орфографії OpenOffice.org]
@@ -73,6 +66,10 @@ Mozilla:
 
 == ALTLinux hyphenator ==
 [http://lingucomponent.openoffice.org/hyphenator.html Перенесення слів в OpenOffice.org]
+
+== aspell ==
+[http://aspell.sourceforge.net/ Домашня сторінка aspell]
+aspell є нащадком ispell і широко використовується у вільних програмних засобах, але, схоже, hunspell перебирає роль лідера.
 
 == ispell ==
 [http://lasr.cs.ucla.edu/geoff/ispell.html Домашня сторінка ispell]
