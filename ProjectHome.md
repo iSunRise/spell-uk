@@ -1,0 +1,1 @@
+This is the project to create knowledge base for Ukrainian language. This project is going to be the base for automated spelling and grammar checking but can be potentially used for other applications.
